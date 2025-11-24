@@ -1,27 +1,33 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
+![WhatsApp Image 2025-11-24 at 10 55 25_911e671b](https://github.com/user-attachments/assets/346e49d5-aae1-4cdc-b343-5293e6dd6073)
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+
+![WhatsApp Image 2025-11-24 at 10 55 26_b9ca61e6](https://github.com/user-attachments/assets/703da1a2-4c35-442c-a51b-fabec358480e)
+
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+
+![WhatsApp Image 2025-11-24 at 10 55 26_5dc1db9f](https://github.com/user-attachments/assets/2bf2f73a-3868-4934-bfae-0153a91640cc)
+
 
 # THEORY
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
+![WhatsApp Image 2025-11-24 at 10 55 26_df5cbb42](https://github.com/user-attachments/assets/a79df50b-5372-41bf-ad2f-82f83cc6b167)
 
 # PROCEDURE 
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
+![WhatsApp Image 2025-11-24 at 10 55 49_eecb2ac6](https://github.com/user-attachments/assets/0e09b38e-52e9-4408-90f0-d142bef5a556)
+
 
 # CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
+![WhatsApp Image 2025-11-24 at 10 56 42_76254ae2](https://github.com/user-attachments/assets/56de97b7-7133-40ac-858b-3ac76920d1dd)
+
 
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
+![WhatsApp Image 2025-11-24 at 10 56 36_9e5e487f](https://github.com/user-attachments/assets/17a7c401-da5f-42c1-b6ee-16123b1f1e42)
 
 
 
